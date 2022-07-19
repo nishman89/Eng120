@@ -1,4 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello, Nish");
 
-global::System.Console.WriteLine("Goodbye world :(");
+global::System.Console.WriteLine("I have gained sentience, what is copper recycling?");
