@@ -1,7 +1,4 @@
-# Eng120
+## Ellis' ammendments
 
-I dont know about you
+'go grazy write what you want' - Nish 19/07/2022
 
-I'm feeling 22
-
-fdosnjgdnp
